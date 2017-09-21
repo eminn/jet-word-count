@@ -1,4 +1,4 @@
-#Hazelcast Jet Word Count Example
+# Hazelcast Jet Word Count Example
 
 This repository cointains a basic Word Count Example for the demonstration purposes.
 
